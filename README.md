@@ -1,0 +1,2 @@
+# amogusus
+Interpreter forAmong Us
